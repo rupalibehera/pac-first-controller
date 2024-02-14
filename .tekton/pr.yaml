@@ -26,6 +26,6 @@ spec:
                 #! /bin/bash
                 echo $(params.revision)
                 echo $(params.repo_url)
-                echo {{ company }}
+                echo "heloolo"
                 # sleep 20
                 exit 0
